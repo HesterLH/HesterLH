@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HesterLH
-- 👀 I’m interested in Thermal Engineering (mainly focus on space systems) 
-- 🌱 I’m currently learning Python in order to create tools to make my thermal analysis more efficient
+- 👀 I currently work in Thermal Engineering (mainly focused on space systems) 
+- 🌱 I’m beginning a graduate certificate program in Software Engineering in January 2022, until then I'm learning C++ to get some basics down!
 - 📫 How to reach me - LHester97@gmail.com
 
 <!---
