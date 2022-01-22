@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HesterLH
 - 👀 I currently work in Thermal Engineering (mainly focused on space systems) 
-- 🌱 I’m beginning a graduate certificate program in Software Engineering in January 2022, until then I'm learning C++ to get some basics down!
+- 🌱 I'm currently completing a graduate certificate program in Software Engineering
 - 📫 How to reach me - LHester97@gmail.com
 
 <!---
