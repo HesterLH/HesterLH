@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HesterLH
-- 👀 I currently work in Thermal Engineering (mainly focused on space systems) 
-- 🌱 I'm currently completing a graduate certificate program in Software Engineering
+- 👀 I currently work in spacecraft thermal engineering 
+- 🌱 I'm currently learning programming to better understand the software I use as well as to create tools to make my thermal analysis more efficient
 - 📫 How to reach me - LHester97@gmail.com
 
 <!---
